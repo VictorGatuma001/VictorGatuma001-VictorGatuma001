@@ -45,15 +45,15 @@ I'm a passionate developer from **Nairobi** who loves building things that matte
 ### [MedaEves Butchery](https://github.com/geekcity168/medaeves-meat-craft)
 An online meat store where customers can purchase quality meat products from MedaEves Butchery.
 - **Tech**: Python, Django, Node.js, MongoDB
-- **Highlights**: Broadened, simplified customer reach to meat-loving people.
+- **Highlights**: Broadened, simplified customer reach to meat-loving individuals.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGatuma001&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGatuma001&layout=compact&theme=radical)
 
 ---
 
@@ -74,10 +74,45 @@ I'm always interested in:
 
 ---
 
-## 💬 Quote
+## 💬 Favourite Dev Quotes 🔨
 
-> "Code is read much more often than it is written." - Guido van Rossum
+<div align="center">
+  <div style="background-color: #1a1a2e; border-radius: 10px; padding: 20px; margin: 20px 0; border-left: 4px solid #FF0000;">
+    <p style="color: #00FF00; font-style: italic; font-size: 16px; margin: 0;">
+      "Code is read much more often than it is written..."
+    </p>
+    <p style="color: #ff6b9d; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
+      — Guido van Rossum
+    </p>
+  </div>
+</div>
 
 ---
 
-**⭐ If you find my work interesting, consider starring some of my projects!**
+<div align="center">
+  <div style="background-color: #1a1a2e; border-radius: 10px; padding: 20px; margin: 20px 0; border-left: 4px solid #00d4ff;">
+    <p style="color: #00d4ff; font-style: italic; font-size: 16px; margin: 0;">
+      "Any fool can write code..."
+    </p>
+    <p style="color: #ff6b9d; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
+      — Jeff Atwood
+    </p>
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <div style="background-color: #1a1a2e; border-radius: 10px; padding: 20px; margin: 20px 0; border-left: 4px solid #FFFF00;">
+    <p style="color: #FFA500; font-style: italic; font-size: 16px; margin: 0;">
+      "If debugging is the process of removing bugs, then programming must be the process of putting them in..."
+    </p>
+    <p style="color: #ff6b9d; margin-top: 15px; margin-bottom: 0; font-size: 14px;">
+      — Edsger W. Dijkstra
+    </p>
+  </div>
+</div>
+
+---
+
+**⭐ If you find my work interesting, you can reach out to me!**
