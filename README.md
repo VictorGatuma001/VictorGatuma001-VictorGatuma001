@@ -42,22 +42,10 @@ I'm a passionate developer from **Nairobi** who loves building things that matte
 
 ## 📌 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-A brief one-liner about what this project does.
-- **Tech**: React, Node.js, MongoDB
-- **Highlights**: Key feature or accomplishment
-- [🔗 Live Demo](https://demo-link.com) | [📖 Documentation](https://docs-link.com)
-
-### [Project Name 2](https://github.com/yourusername/project2)
-Another brief description of a cool project.
-- **Tech**: Python, FastAPI, PostgreSQL
-- **Highlights**: What makes this special
-- [🔗 GitHub](https://github.com/yourusername/project2)
-
-### [Project Name 3](https://github.com/yourusername/project3)
-Description of your third featured project.
-- **Tech**: Vue.js, Django, Docker
-- **Highlights**: Notable achievement or feature
+### [MedaEves Butchery](https://github.com/geekcity168/medaeves-meat-craft)
+An online meat store where customers can purchase quality meat products from MedaEves Butchery.
+- **Tech**: Python, Django, Node.js, MongoDB
+- **Highlights**: Broadened, simplified customer reach to meat-loving people.
 
 ---
 
@@ -81,11 +69,8 @@ I'm always interested in:
 
 ## 📫 Get In Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- **Blog**: [yourblog.com](https://yourblog.com)
+- **Email**: [victorgatuma99@gmail.com](mailto:victorgatuma99@gmail.com)
+- **LinkedIn**: [linkedin.com/in/victor-gatuma-0a5475392](https://linkedin.com/in/victor-gatuma-0a5475392)
 
 ---
 
