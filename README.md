@@ -47,6 +47,27 @@ An online meat store where customers can purchase quality meat products from Med
 - **Tech**: Python, Django, Node.js, MongoDB
 - **Highlights**: Broadened, simplified customer reach to meat-loving individuals.
 
+### [Dungeon Crawler 2D Game]()
+A terminal-based roguelike built in pure Python with curses. Features procedurally generated dungeons, turn-based combat with monster AI, and procedural loot generation across 5 difficulty levels. Demonstrates game architecture, algorithm design, and terminal UI programming.
+
+- **Tech**: Python
+- **Highlights**
+- Procedurally generated dungeons — each level is randomized with rooms, corridors, and guaranteed connectivity
+  
+- Turn-based combat system — attack/defense stats, damage variance, monster AI that hunts you when nearby
+  
+- Persistent progression — loot (weapons, potions, gold) carries between levels and permanently boosts your stats
+  
+- Monster variety — 5 monster types that scale in difficulty (rats → trolls) as you descend
+  
+- Clean architecture — modular design (dungeon generation, game logic, rendering kept separate) makes it easy to extend
+  
+- Full terminal UI — color-coded entities, live status bar, scrolling combat log using curses
+  
+- Testable code — designed to run headless for unit testing combat and generation without needing a real terminal
+  
+- Difficulty scaling — 5 levels with increasing monster toughness and loot variety
+
 ---
 
 ## 📊 GitHub Stats
