@@ -47,7 +47,7 @@ An online meat store where customers can purchase quality meat products from Med
 - **Tech**: Python, Django, Node.js, MongoDB
 - **Highlights**: Broadened, simplified customer reach to meat-loving individuals.
 
-### [Dungeon Crawler 2D Game]()
+### [Dungeon Crawler 2D Game](https://github.com/VictorGatuma001/dungeon-crawler-game)
 A terminal-based roguelike built in pure Python with curses. Features procedurally generated dungeons, turn-based combat with monster AI, and procedural loot generation across 5 difficulty levels. Demonstrates game architecture, algorithm design, and terminal UI programming.
 
 - **Tech**: Python
