@@ -42,31 +42,58 @@ I'm a passionate developer from **Nairobi** who loves building things that matte
 
 ## 📌 Featured Projects
 
+### 🎮 Game Development Portfolio
+
+#### [Terminal Dungeon Crawler](https://github.com/VictorGatuma001/terminal-dungeon-crawler)
+A turn-based roguelike built in pure Python with curses. Navigate procedurally generated dungeons, fight monsters with strategic combat, and collect loot as you descend through 5 difficulty levels.
+
+- **Tech**: Python, Curses (Terminal UI)
+- **Key Skills**: Procedural generation algorithms, game state management, OOP design, terminal graphics
+- **Highlights**:
+  - Procedurally generated dungeons with guaranteed connectivity (rooms + corridors)
+  - Turn-based combat system with attack/defense mechanics and AI pathfinding
+  - Persistent progression system (loot carries between levels)
+  - 5 monster types with scaling difficulty
+  - Modular architecture for easy extension
+  - Headless-testable design for unit testing game logic
+
+---
+
+#### [Space Shooter](https://github.com/VictorGatuma001/space-shooter)
+A Galaga-inspired arcade shooter with multiple enemy types, dynamic power-ups, and boss encounters. Built with Pygame using procedurally-generated pixel art sprites.
+
+- **Tech**: Python, Pygame, Sprite-based graphics
+- **Key Skills**: Real-time game loops, collision detection, sprite management, game states
+- **Highlights**:
+  - 6 enemy waves with 4 distinct enemy types (drones, strikers, tanks, boss)
+  - Dynamic power-up system (rapid fire, shield, spread shot) with duration timers
+  - Procedural pixel art sprite generation (no external assets)
+  - Wave-based progression with scaling difficulty
+  - Clean entity-based architecture with sprite groups
+  - Full game state management (menu, gameplay, game over, win)
+
+---
+
+#### [Isometric Racer](https://github.com/VictorGatuma001/isometric-racer)
+A 3D-style racing game with isometric perspective, realistic car physics, and three AI opponents. Race 3 laps around a dynamic track with curves, acceleration dynamics, and competitive AI behavior.
+
+- **Tech**: Python, Pygame, Isometric projection math
+- **Key Skills**: Coordinate system transformation, physics simulation, AI pathfinding, camera systems
+- **Highlights**:
+  - Isometric 3D projection (30° angle) using pure mathematical transformation
+  - Realistic car physics (acceleration, braking, momentum, turning radius, friction)
+  - 3 independent AI opponents with waypoint-based pathfinding
+  - Dynamic track with 8 waypoints and boundary collision detection
+  - Real-time race tracking (lap counter, position standings, race timer)
+  - Off-road penalty system (grass reduces speed)
+  - Smooth isometric camera following player
+
+---
+
 ### [MedaEves Butchery](https://github.com/geekcity168/medaeves-meat-craft)
 An online meat store where customers can purchase quality meat products from MedaEves Butchery.
 - **Tech**: Python, Django, Node.js, MongoDB
 - **Highlights**: Broadened, simplified customer reach to meat-loving individuals.
-
-### [Dungeon Crawler 2D Game](https://github.com/VictorGatuma001/dungeon-crawler-game)
-A terminal-based roguelike built in pure Python with curses. Features procedurally generated dungeons, turn-based combat with monster AI, and procedural loot generation across 5 difficulty levels. Demonstrates game architecture, algorithm design, and terminal UI programming.
-
-- **Tech**: Python
-- **Highlights**
-- Procedurally generated dungeons — each level is randomized with rooms, corridors, and guaranteed connectivity
-  
-- Turn-based combat system — attack/defense stats, damage variance, monster AI that hunts you when nearby
-  
-- Persistent progression — loot (weapons, potions, gold) carries between levels and permanently boosts your stats
-  
-- Monster variety — 5 monster types that scale in difficulty (rats → trolls) as you descend
-  
-- Clean architecture — modular design (dungeon generation, game logic, rendering kept separate) makes it easy to extend
-  
-- Full terminal UI — color-coded entities, live status bar, scrolling combat log using curses
-  
-- Testable code — designed to run headless for unit testing combat and generation without needing a real terminal
-  
-- Difficulty scaling — 5 levels with increasing monster toughness and loot variety
 
 ---
 
