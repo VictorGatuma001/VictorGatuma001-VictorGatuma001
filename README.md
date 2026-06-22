@@ -44,7 +44,7 @@ I'm a passionate developer from **Nairobi** who loves building things that matte
 
 ### 🎮 Game Development Portfolio
 
-#### [Terminal Dungeon Crawler](https://github.com/VictorGatuma001/terminal-dungeon-crawler)
+#### [Terminal Dungeon Crawler]([https://github.com/VictorGatuma001/terminal-dungeon-crawler)](https://github.com/VictorGatuma001/dungeon-crawler-game).
 A turn-based roguelike built in pure Python with curses. Navigate procedurally generated dungeons, fight monsters with strategic combat, and collect loot as you descend through 5 difficulty levels.
 
 - **Tech**: Python, Curses (Terminal UI)
