@@ -44,7 +44,7 @@ I'm a passionate developer from **Nairobi** who loves building things that matte
 
 ### 🎮 Game Development Portfolio
 
-#### [Terminal Dungeon Crawler](https://github.com/VictorGatuma001/dungeon-crawler-game).
+#### [Terminal Dungeon Crawler](https://github.com/VictorGatuma001/dungeon-crawler-game)
 A turn-based roguelike built in pure Python with curses. Navigate procedurally generated dungeons, fight monsters with strategic combat, and collect loot as you descend through 5 difficulty levels.
 
 - **Tech**: Python, Curses (Terminal UI)
@@ -74,7 +74,7 @@ A Galaga-inspired arcade shooter with multiple enemy types, dynamic power-ups, a
 
 ---
 
-#### [Isometric Racer](https://github.com/VictorGatuma001/isometric-racer)
+#### [Isometric Racer](https://github.com/VictorGatuma001/isometric-racer-game)
 A 3D-style racing game with isometric perspective, realistic car physics, and three AI opponents. Race 3 laps around a dynamic track with curves, acceleration dynamics, and competitive AI behavior.
 
 - **Tech**: Python, Pygame, Isometric projection math
