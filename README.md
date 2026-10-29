@@ -18,11 +18,11 @@ I enjoy building practical software, experimenting with new technologies, and tu
 
 ## 🚀 About Me
 
-- 💻 **Developer** with interests across full-stack development, cloud infrastructure, and data
-- 🌱 **Lifelong Learner** - always exploring new technologies and best practices
-- 🤝 **Open Source Enthusiast** - contributing to projects that make a difference
-- 📚 **Tech Writer** - sharing knowledge through articles and documentation
-- 🎯 **Problem Solver** - passionate about writing clean, maintainable code
+- **Developer** with interests across full-stack development, cloud infrastructure, and data
+- **Lifelong Learner** - always exploring new technologies and best practices
+- **Open Source Enthusiast** - contributing to projects that make a difference
+- **Tech Writer** - sharing knowledge through articles and documentation
+- **Problem Solver** - passionate about writing clean, maintainable code
 
 ---
 
