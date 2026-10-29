@@ -1,6 +1,18 @@
-# Hi there 👋
+# Hi, I'm Victor Gatuma 👋
 
-I'm a passionate developer from **Nairobi** who loves building things that matter. I enjoy solving complex problems, contributing to open source, and constantly learning new technologies.
+## Software Developer | Python | Game Development | Full-Stack & AI
+
+I enjoy building practical software, experimenting with new technologies, and turning ideas into working applications. My projects range from interactive Python games to web application development, with a growing interest in full-stack engineering, AI, and data-driven solutions.
+
+💻 Building: Practical applications and interactive software.
+
+🎮 Exploring: Game mechanics, physics simulations, and AI-driven behaviour.
+
+🌱 Learning: Full-stack development, cloud technologies, and machine learning.
+
+🎯 Goal: Build reliable, maintainable software that solves real-world problems.
+
+🤝 Open to: Interesting software projects, collaboration, and professional opportunities.
 
 ---
 
